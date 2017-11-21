@@ -3,6 +3,11 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/data0/work/git-repo/gitlab/kingsilk/qh-shop/qh-shop-wap-front/src/app/states/main/brandApp/store/itemManage/itemMan/view.html">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/.travis.yml">
           <value>
             <set />
@@ -44,6 +49,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/themes/next/_config.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/themes/next/languages/zh-Hans.yml">
           <value>
             <set />
           </value>
