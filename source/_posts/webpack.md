@@ -1,11 +1,11 @@
 ---
 title: webpack
 ---
-##　打包字体图标　和图片的方式(参考：https://github.com/webpack-contrib/file-loader)
+## 打包字体图标和图片的方式(参考：https://github.com/webpack-contrib/file-loader)
     
     使用之前要安装url-loader、file-loader
 
-```
+```bash
 {
     test: /\.(woff|woff2|ttf|eot|svg)(\?]?.*)?$/,
     use: [
