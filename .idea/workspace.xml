@@ -49,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/source/_posts/123.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="617">
+              <first_editor relative-caret-position="854">
                 <caret line="292" lean-forward="true" selection-start-line="292" selection-end-line="292" />
               </first_editor>
               <second_editor />
@@ -652,12 +652,12 @@
       <updated>1502441506667</updated>
       <workItem from="1502441508300" duration="84000" />
       <workItem from="1511185235185" duration="2716000" />
-      <workItem from="1527156150971" duration="38000" />
+      <workItem from="1527156150971" duration="692000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7883000" />
+    <option name="totallyTimeSpent" value="8537000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -670,16 +670,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="70" y="23" width="1850" height="1176" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" x="273" y="133" width="429" height="949" id="Project" order="6" visible="true" weight="0.11548988" />
+      <window_info content_ui="combo" x="273" y="133" width="429" height="949" id="Project" order="6" visible="true" weight="0.11548988" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32975295" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="6" />
       <window_info anchor="bottom" x="52" y="393" width="1850" height="302" id="Version Control" order="2" weight="0.32867885" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.24972856" />
-      <window_info anchor="bottom" id="Terminal" order="3" visible="true" weight="0.37627432" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.37627432" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="right" id="Palette" order="6" />
@@ -875,7 +874,7 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/123.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="617">
+          <first_editor relative-caret-position="854">
             <caret line="292" lean-forward="true" selection-start-line="292" selection-end-line="292" />
           </first_editor>
           <second_editor />
